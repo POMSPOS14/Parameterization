@@ -19,7 +19,7 @@ namespace Kursovaya2
 
         //Инициализация значений
         double lam = Math.Pow(10, 2);
-        double k1, k2, k3, k4, k5, m1, m2, m3, m4, m5,t;//для методов 
+        double k1, k2, k3, k4, k5, m1, m2, m3, m4, m5,t;//для методов  
         double h, eps;//шаг и точность
         double u0 = 1, x0 = 0;// начальные значения
         double u, x1, sig, u2, x2, sig2,x,y;// konechnie znacheniya
